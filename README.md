@@ -264,14 +264,14 @@ This project demonstrates:
 
 ## 👤 Author
 
-**Likhith Chandra**  
+**Likhith Challamplam**  
 - Master of Digital Health (La Trobe University, Melbourne)
 - Pharmacy Background (Pharm.D from Sri Padmavati School of Pharmacy)
 - AI/ML Specialist focused on Healthcare Innovation
 
 **Email**: likhithc98@gmail.com  
 **GitHub**: [@likhithc98-commits](https://github.com/likhithc98-commits)  
-**LinkedIn**: [Your LinkedIn Profile]
+**LinkedIn**: www.linkedin.com/in/c-likhith-670a1b235
 
 ---
 
